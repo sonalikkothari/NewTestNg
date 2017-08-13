@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="130" started-at="2017-08-11T18:06:07Z" finished-at="2017-08-11T18:06:08Z">
+    <groups>
+      <group name="sanity">
+        <method signature="TestNgAnno.testMethod1()[pri:0, instance:com.wbl.newtestng.TestNgAnno@6574b225]" name="testMethod1" class="com.wbl.newtestng.TestNgAnno"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Default test" duration-ms="130" started-at="2017-08-11T18:06:07Z" finished-at="2017-08-11T18:06:08Z">
+      <class name="com.wbl.newtestng.TestNgAnno">
+        <test-method status="PASS" signature="testMethod1()[pri:0, instance:com.wbl.newtestng.TestNgAnno@6574b225]" name="testMethod1" duration-ms="41" started-at="2017-08-11T11:06:07Z" finished-at="2017-08-11T11:06:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+        <test-method status="PASS" signature="testMethod2()[pri:0, instance:com.wbl.newtestng.TestNgAnno@6574b225]" name="testMethod2" duration-ms="14" started-at="2017-08-11T11:06:07Z" finished-at="2017-08-11T11:06:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod2 -->
+      </class> <!-- com.wbl.newtestng.TestNgAnno -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
